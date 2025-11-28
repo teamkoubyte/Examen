@@ -14,25 +14,25 @@
 - Astronomische eenheid = **gemiddelde** afstand tussen de zon en de aarde (150 000 000 kilometer)
 - Afstanden binnen het zonnestelsel
 
-![AE](./astronomischeEenheid.png)
+![AE](./images/astronomischeEenheid.png)
 
 ### 1.2 Lichtjaar (LJ)
 - **Lichtjaar** = afstand die het licht aflegt op één jaar tijd (10 biljoen kilometer)
 - **Snelheid van het licht** = 300 000 kilometer/seconde
 - **Zon** -> **Aarde** = 8 lichtminuten
 
-![lichtjaar](./lichtjaar.png)
+![lichtjaar](./images/lichtjaar.png)
 
 ### Toepassing:
 - Supernova van 160 000 jaar geleden (James Webb Space Telescope)
 
-![toepassing](./toepassing.png)
+![toepassing](./images/toepassing.png)
 
 ### 2. Het zonnestelsel
 
 ### 2.1 Het ontstaan van ons zonnestelsel
 
-![zonnestelsel](./zonnestelsel.png)
+![zonnestelsel](./images/zonnestelsel.png)
 
 1. Stof- en gasnevel in het heelal
 2. Zwaartekracht trekt stof/gasdeeltjes naar elkaar
@@ -40,30 +40,30 @@
 3. Door onregelmatigheid -> samentrekking begint
 rond te draaien
 
-![stofGasnevel](./stofGasnevel.png)
+![stofGasnevel](./images/stofGasnevel.png)
 
 4. Nevel plat af tot een schijf met centrale bol
 
-![nevelPlat](./nevelPlat.png)
+![nevelPlat](./images/nevelPlat.png)
 
 5. Centrale bol wordt een ster
 
-![centraleBol](./centraleBol.png)
+![centraleBol](./images/centraleBol.png)
 
 6. Ontstaan protoplaneten door samenklonteren
 materiaaldeeltjes
 
-![materiaaldeeltjes](./materiaaldeeltjes.png)
+![materiaaldeeltjes](./images/materiaaldeeltjes.png)
 
 7. Straling blaast lichte elementen weg -> vaste
 klonters botsen en vormen rotsplaneten
 
-![rotsplaneten](./rotsplaneten.png)
+![rotsplaneten](./images/rotsplaneten.png)
 
 8. Lichte elementen (gas) in de buitenste zone
 vormt gasreuzen
 
-![gasreuzen](./gasreuzen.png)
+![gasreuzen](./images/gasreuzen.png)
 
 ### 2.2 De bouw van de zon
 - **Kern**: fusie van waterstof -> ontstaan helium en grote stralingsenergie (elektromagnetische straling)
@@ -73,16 +73,16 @@ vormt gasreuzen
 
 - **Corona** = buitenste deel van de zonneatmosfeer. Gloed het ijle gassen
 
-![kernZon](./kernZon.png)
+![kernZon](./images/kernZon.png)
 
 - **Zonnewind** = stroom van geladen deeltjes zonnematerie die ontsnappen van de zon<br>
 -> Tegengehouden door het magnetisch veld van de aarde<br>
 -> Onstaan **poollicht**
 
-![zonnewind](./zonnewind.png)
+![zonnewind](./images/zonnewind.png)
 
 ### 2.3 Planeten in ons zonnestelsel
-![onsZonnestelsel](./zonnestelsel2.png)
+![onsZonnestelsel](./images/zonnestelsel2.png)
 
 - **Planetenstelsel** = één/meerdere sterren en de planeten die er rond draaien
 - Voorwaarden om van een planeet te spreken
@@ -99,11 +99,11 @@ vormt gasreuzen
 - Rotatietijd verschilt
 - Weerkaatsen licht van de zon
 
-![planeten](./planeten.png)
+![planeten](./images/planeten.png)
 
 - **Aarde** = bewoonbare zone (Goldilockszone) + vloeibaar water + juiste opbouw en samenstelling
 
-![aarde](./aarde.png)
+![aarde](./images/aarde.png)
 
 ### 2.4 Puingordels in ons zonnestelsel
 **Geen leerstof**
@@ -113,11 +113,11 @@ vormt gasreuzen
 - **Meteoren** (vallende sterren) = Meteoroïden die de dampkring binnendringen
 - **Meteoriet** (afbeelding) = meteoroïde die niet opgebrand is in de dampkring en het oppervlak bereikt
 
-![meteroriet](./meteoriet.png)
+![meteroriet](./images/meteoriet.png)
 - Vaak klein en onvindbaar
 - Soms groot met grote gevolgen voor het leven op aarde (afbeelding: inslag die het einde maakte aan de dino's)
 
-![eindeDino's](./eindeDino's.png)
+![eindeDino's](./images/eindeDino's.png)
 
 - **Kometen** = "vuile sneeuwbal" (1-10km dik) met een aan rond de zon -> dicht bij de zon ontstaat er sublimatie van ijs waardoor wolk van gas en ijs ontstaat -> stofstaart van miljoenen kilometers vormt zich = **coma**
 
@@ -129,13 +129,13 @@ vormt gasreuzen
 - **Cluster** -> "lokale groep" met 28 andere sterrenstelsels
 - **Heelal** met diameter 92 miljard lichjaren/LJ
 
-![planeten](./planeten2.png)
+![planeten](./images/planeten2.png)
 
 ---
 
 ### Hoofdstuk 3 - Ontstaan van en evolutie van het heelal
 
-![oerknal](./oerknal.png)
+![oerknal](./images/oerknal.png)
 
 ### Verloop
 1. Enorme druk en temperatuur in één punt -> zeer snelle expansie =
@@ -150,12 +150,12 @@ ontstonden (zie vorige leerstof)
 ### Bewijzen voor de Big Bang
 - **Roodverschuiving**: verlaging van lichtfrequentie bij het weggaan van sterren (een rodere kleur)
 
-![roodverschuiving](./roodverschuiving.png)
+![roodverschuiving](./images/roodverschuiving.png)
 
 - **Microgolfachtergrondstraling**: erg zwakke microgolven als overblijfsel van Big Bang
 - Datering op 13,8 miljard jaar geleden
 
-![microgolfachtergrondstraling](./microgolfachtergrondstraling.png)
+![microgolfachtergrondstraling](./images/microgolfachtergrondstraling.png)
 
 ---
 
@@ -177,7 +177,7 @@ ontstonden (zie vorige leerstof)
 - Zomer (± 63°CH) = dag langer dan nacht
 - Winter (± 17°CH) = nacht langer dan dag
 
-![dagboog](./dagboog.png)
+![dagboog](./images/dagboog.png)
 
 ### 1.2 De sterrenhemel tijdens de nacht
 - **Sterren**: ook schijnbare baan rond **Poolster** (O - Z -W)
@@ -191,7 +191,7 @@ ontstonden (zie vorige leerstof)
 - Denkbeeldige **aardas** loopt door Noord-Zuidpool
 - Draait rond zijn as in 24u (**1/dag**)
 
-![aardrotatie](./aardrotatie.png)
+![aardrotatie](./images/aardrotatie.png)
 
 ### 3. Gevolgen van de aardrotatie
 
@@ -202,18 +202,18 @@ ontstonden (zie vorige leerstof)
     - **Evenaar** -> Noordelijk en Zuidelijk halfrond (90°N en 90°Z)
     - **Nulmeridiaan** -> Westelijk en Oostelijk halfrond (180°W en 180°E)
 
-![plaatsbepaling](./plaatsbepaling.png)
+![plaatsbepaling](./images/plaatsbepaling.png)
 
 - Ligging van een punt op aarde t.o.v nullijnen
 - **Breedteligging** -> afstand van punt to evenaar (afhankelijk van halfrond N of S)
 - **Lengteligging** -> afstand van punt tot nulmeridiaan (afhankelijk van halfrond W of E)
 
-![breedte/lengteLigging](./lengteLigging.png)
+![breedte/lengteLigging](./images/lengteLigging.png)
 
 ### 3.2 Afwisseling dag en nacht
 - Ongeveer 50% van de aarde is steeds belicht door bolorm
 
-![dagEnNacht](./dagEnNacht.png)
+![dagEnNacht](./images/dagEnNacht.png)
 
 ### 3.3 Tijdsbepaling op aarde
 - **De zonnetijd**: tijd gebaseerd op culminatiehoogte -> niet handig om iedereen met zonnetijd te laten werken
@@ -222,13 +222,13 @@ ontstonden (zie vorige leerstof)
     - **Westen** = vroeger ; **Oosten** = later
     - **UTC-zone** rond de meridiaan -> België = UTC   
 
-![UTC](./UTC.png)
+![UTC](./images/UTC.png)
 
 - De conventionale of lokale tijd
     - West-Europa = UTC+1
     - Kan wisselen met **zomer/wintertijd**
 
-![lokaleTijd](./lokaleTijd.png)
+![lokaleTijd](./images/lokaleTijd.png)
 
 - Uurzones in België
     - Theoretische zone: UTC
@@ -240,7 +240,7 @@ ontstonden (zie vorige leerstof)
 - **Datumgrens** = meridiaan van 180° 
 -> Datum veranderd bij oversteken van Oost naar West
 
-![datumgrens](./datumgrens.png)
+![datumgrens](./images/datumgrens.png)
 
 ### 3.4 Afbuiging van de winden en zeestromen
 
@@ -251,7 +251,7 @@ ontstonden (zie vorige leerstof)
     - **Noorden**: stroom buigt naar rechts
     - **Zuiden**: stroom buigt naar links
 
-![afbuigingWind](./afbuigingWind.png)
+![afbuigingWind](./images/afbuigingWind.png)
 
 ### 3.5 Afplatting van de aarde
 
@@ -259,7 +259,7 @@ ontstonden (zie vorige leerstof)
 
 -> uitzetting aan evenaar, afplatting polen
 
-![afplattingAarde](./afplattingAarde.png)
+![afplattingAarde](./images/afplattingAarde.png)
 
 ---
 
@@ -272,7 +272,7 @@ ontstonden (zie vorige leerstof)
     - **Aardrevolutie** = omwentelingen van aarde rond de zon
     - Schuine aardas
 
-![daglicht](./daglicht.png)
+![daglicht](./images/daglicht.png)
 
 ### 2. De ellipsvormige baan van de aarde rond de zon
 - **Baan rond de zon** = ellipsvormig
@@ -281,7 +281,7 @@ ontstonden (zie vorige leerstof)
 
 -> Januari dichts bij de zon
 
-![baandeAardeZon](./baanAardeZon.png)
+![baandeAardeZon](./images/baanAardeZon.png)
 
 ### 3. De aardrevolutie bepaalt het kalenderjaar
 - Baan ronde de zon duurt 365 dagen - 5uur - 48 minuten en 46 seconden = **aards jaar**
@@ -295,7 +295,7 @@ ontstonden (zie vorige leerstof)
 
 ### 4. De schuine stand van de aardas veroorzaakt de seizoenen
 
-![aardas](./aardas.png)
+![aardas](./images/aardas.png)
 
 - Hoek van aardas met lijn loodrecht op **Eclipticavlak** = 23° 26'
 - Noordpool en Zuidpool hebben maar één half jaar licht
@@ -306,7 +306,7 @@ ontstonden (zie vorige leerstof)
 - **Noordelijk halfrond**: lente-equinox op **20 maart** en herfst-equinox op **23 september**
 - **Zuidelijk halfrond**: lente-equinox op **23 september** en herfst-equinox op **20 maart**
 
-![equinox](./equinox.png)
+![equinox](./images/equinox.png)
 
 ### 4.2 Zomerzonnewende op het Noordelijk Halfrond
 - Zonnestralen vallen loodrecht op **kreeftskeerkring** = kring waarop de zon keert en de dagen terug korter worden
@@ -314,7 +314,7 @@ ontstonden (zie vorige leerstof)
 - Dagen lager dan de nacht in Noordelijk Halfrond
 - Dagen korter dan de nacht in Zuidelijk Halfrond
 
-![halfronden](./halfronden.png)
+![halfronden](./images/halfronden.png)
 
 ### 4.3 Winterzonnewende op het Noordelijk Halfrond
 - Zonnestalen van loodrecht op Steenbokskeerkring
@@ -322,7 +322,7 @@ ontstonden (zie vorige leerstof)
 - Dagen langer dan de nacht in Zuidelijk Halfrond
 - Dagen korter dan de nacht in Noordelijk Halfrond
 
-![halfronden2](./halfronden2.png)
+![halfronden2](./images/halfronden2.png)
 
 ### 5. Culminatieverschillen bepalen de klimaathoogte op aarde
 - Richting Zuidpool/Noordpool daling van culminatiehoogte
@@ -332,7 +332,7 @@ ontstonden (zie vorige leerstof)
 - **Gematigde klimaten**: tussen keerkringen en poolcirkels - grote temperatuurverschillen tussen winter en zomer. Verschillende daglengtes
 - **Tropische klimaten**: van de keerkringen tot de evenaar - heel jaar door hoge temperaturen
 
-![klimaatgordels](./klimaatgordels.png)
+![klimaatgordels](./images/klimaatgordels.png)
 
 ---
 
@@ -354,11 +354,11 @@ ontstonden (zie vorige leerstof)
     - Fotosynthese
     - Meteorietinslagen
 
-![atmosfeer](./atmosfeer.png)
+![atmosfeer](./images/atmosfeer.png)
 
 ### 2. Op verkenning in de lagen van de atmosfeer
 
-![sferen](./sferen.png)
+![sferen](./images/sferen.png)
 
 ### 3. Ozon: een bescherming of bedreiging?
 **Geen leerstof**
@@ -371,7 +371,7 @@ ontstonden (zie vorige leerstof)
 - **Stralingsbalans** = evenwicht tussen inkomende kortgolvige straling en uitgaande langgolvige straling
 - **Albedo** = onmiddelijk teruggekaatste straling (ongebruikte energie) -> wolken, stofdeeltjes, witte oppervlaktes
 
-![stralingsbalans](./stralingsbalans.png)
+![stralingsbalans](./images/stralingsbalans.png)
 
 - Andere straling -> omgezet naar langgolvige straling
 
@@ -384,14 +384,14 @@ ontstonden (zie vorige leerstof)
 ### 2. Temperatuurverdeling op aarde
 
 ### 2.1 Breedteligging
-![breedteligging](./breedteligging.png)
+![breedteligging](./images/breedteligging.png)
 
 ### 2.2 Tijdstip van de dag (zonnetijd)
 - Warmste moment = 2 uur nadat de zon de culminatiehoogte heeft bereikt
 
 -> Omzetten van licht naar warmte heeft tijd nodig
 
-![warmsteMoment](./warmsteMoment.png)
+![warmsteMoment](./images/warmsteMoment.png)
 
 ### 2.3 Oriëntatie helling
 **Geen leerstof**
@@ -402,13 +402,13 @@ ontstonden (zie vorige leerstof)
     - Zee koelt traag af in de winter -> geeft warmte af
     - Zee warmt traag op in de zomer -> koelend effect
 
-![zee](./zee.png)
+![zee](./images/zee.png)
 
 ### 3.1 Invloed van zeestromingen
 - Uitwisseling van warmte tussen de evenaar en de polen
 - Warme **golfstroom** houdt Europa warmer in de winter dan Oostkust van de Verenigde Staten
 
-![zeeKaart](./zeeKaart.png)
+![zeeKaart](./images/zeeKaart.png)
 
 ### 3.2 Invloed van hoogteligging
 - Per **180m** stijging daalt de temperatuur **1 °C**
@@ -419,7 +419,7 @@ ontstonden (zie vorige leerstof)
 - Vegetatie reflecteert minder MAAR warmt trager op door opname ven straling door fotosynthese
 - Donkere oppervlakten weerkaatsen minder licht en warmen sterker op
 
-![bodem](./bodem.png)
+![bodem](./images/bodem.png)
 
 ---
 
@@ -430,7 +430,7 @@ ontstonden (zie vorige leerstof)
     - Hoger dan 1013 hPa = **Hogedrukgebied**
     - Lager dan 1013 hPa = **Laagdrukgebied**
 
-![luchtkolom](./luchtkolom.png)
+![luchtkolom](./images/luchtkolom.png)
 
 Ontstaan wind:
 1. Warmte lucht stijgt door opwarming
@@ -440,12 +440,12 @@ Ontstaan wind:
 5. Luchtkolom gaat aan de grond meer wegen -> ontstaan hoge druk (H)
 6. Lucht verplaatst zich onderaan naar het lagedrukgebied = **wind**
 
-![zeebries](./zeebries.png)
+![zeebries](./images/zeebries.png)
 
 ### 2. De luchtcirculatie toegepast op de aarde
 - Stilstaande aarde: opwarming aan evenaar -> winden van polen naar evenaar (2 circulatiecellen)
 
-![luchtcirculatie](./luchtcirculatie.png)
+![luchtcirculatie](./images/luchtcirculatie.png)
 
 - 3 circulatiecellen per halfrond
 - A: Warmte lucht stijgt aan de evenaar -> vloeit af naar de polen tot 30°
@@ -454,7 +454,7 @@ Ontstaan wind:
 
 -> lucht stroomt gedeeltelijk terug naar de evenaar
 
-![circulatiecellen1](./circulatiecellen1.png)
+![circulatiecellen1](./images/circulatiecellen1.png)
 
 - B: overgebleven lucht op 30°N beweegt naar Noordpool -> Komt op 60°N koude poollucht tegen
 
@@ -462,7 +462,7 @@ Ontstaan wind:
 
 -> lucht vloeit deels zuidelijk waardoor circulatiecel sluit
 
-![circulatiecellen2](./circulatiecellen2.png)
+![circulatiecellen2](./images/circulatiecellen2.png)
 
 - C: lucht op 60°N die in de hoogte noordwaarts vloeit koelt sterk af en daalt boven Noordpool
 
@@ -470,13 +470,13 @@ Ontstaan wind:
 
 -> Ontstaan derde circulatiecel
 
-![circulatiecellen3](./circulatiecellen3.png)
+![circulatiecellen3](./images/circulatiecellen3.png)
 
 - **Corioliseffect** -> winden buigen af
     - Voorbeeld. Noorderwinden worden Noordoostenwinden in het Noordelijk Halfrond tussen keerkring en evenaar = **passaat**
     - Bij ons: Zuid-Westenwind die primeert
 
-![corioliseffect](./corioliseffect.png)
+![corioliseffect](./images/corioliseffect.png)
 
 ### 3. Van theoretisch model naar realiteit
 **Geen leerstof**
@@ -485,7 +485,7 @@ Ontstaan wind:
 - **Golfstroom**: Zeestromingen herverdelen warmte in oceean-atmosfeer systeem -> stroming door winden aan oppervlak oceanen
 - Voorbeeld. Golfstroom -> **valt samen met Zuidwesten winden** tussen keerkring en polen
 
-![golfstroom](./golfstroom.png)
+![golfstroom](./images/golfstroom.png)
 
 - **Thermohaliene circulatie**
     - Thermo = temperatuur
@@ -494,6 +494,6 @@ Ontstaan wind:
 -> Zeestromingen aangedreven door verschillen in temperatuur en zoutgehalte
 - Voorbeeld. Water van goldstroom wordt koeler en zouter bij de polen -> zakt en wordt afgevoerd naar de tropen
 
-![thermohaliene](./thermohaliene.png)
+![thermohaliene](./images/thermohaliene.png)
 
 ---

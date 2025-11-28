@@ -126,10 +126,10 @@ Zwart-wit denken • Zich in een slachtoffer rol dwingen • Zondebok • Overdr
 ### Studie 1 - Roaring Twenties
 
 ## Ruimte
-![kaartDuitslandUSA](./kaartDuitslandUSA.png)
+![kaartDuitslandUSA](./images/kaartDuitslandUSA.png)
 
 ## Tijd
-![tijdlijn](./tijdlijn.png)
+![tijdlijn](./images/tijdlijn.png)
 
 - **Interbellum** =  **1919-1939**
 - **Hyperinflatie** =  **1923**
@@ -235,7 +235,7 @@ Herstelbetalingen na WOI -> Bijdrukken geld in 1923 door **Duitsland** -> enorme
 
 Oplossing = **Dawes Plan**
 
-![dawesPlan](./dawesPlan.png)
+![dawesPlan](./images/dawesPlan.png)
 
 #### <center>2. Cultuur En Emancipatie Tijdens De Roaring Twenties</center>
 Sociale bewegingen -> meer **Vrije tijd** en hogere **lonen** arbeiders:
@@ -267,10 +267,10 @@ Beurscrash 1929 -> daling prijzen en **paniekverkoop aandelen** -> economische c
 ### Studie 2 - Het totalitarisme (Interbellum)
 
 ## Ruimte
-![interbellumKaart](./interbellumKaart.png)
+![interbellumKaart](./images/interbellumKaart.png)
 
 ## Tijd
-![tijdlijn](./tijdlijn2.png)
+![tijdlijn](./images/tijdlijn2.png)
 
 - **Mars op Rome van Mussolini** = **1922**
 - **Machtsovername van Stalin** = **1923**
@@ -437,10 +437,10 @@ Ontstaan **personencultus** rond Stalin --> propaganda en kunst
 ## Studie 1 - Oorzaken en aanloop naar de Tweede Wereldoorlog
 
 ## Ruimte
-![kaart](./kaartAs-mogendheden.png)
+![kaart](./images/kaartAs-mogendheden.png)
 
 ## Tijd
-![tijdlijn](./tijdlijn3.png)
+![tijdlijn](./images/tijdlijn3.png)
 
 - **Tweede Wereldoorlog** = **1939-1945**
 - **Anschluss en de conferentie van München** = **1938**
@@ -566,10 +566,10 @@ Later in de oorlog (1940-1942): **Geallieerden**: China, Frankrijk, Verenigd Kon
 ## Studie 2 - De Tweede Wereldoorlog
 
 ## Ruimte
-![kaart](./kaartWOII.png)
+![kaart](./images/kaartWOII.png)
 
 ## Tijd
-![tijd](./tijdlijn4.png)
+![tijd](./images/tijdlijn4.png)
 - **Tweede Wereldoorlog** = **1939-1945**
 - **Invasie van Rusland en de aanval op Pearl Harbor** = **1941**
 - **Overgave van Duitsland** = **1944**
@@ -765,10 +765,10 @@ Invasie van Italië via **Noord-Afrika** (zomer 1943) --> overgave Italië en **
 ## Studie 1 - De VN
 
 ## Ruimte
-![kaartVN](./kaartVN.png)
+![kaartVN](./images/kaartVN.png)
 
 ## Tijd
-![tijdlijn](./tijdlijn5.png)
+![tijdlijn](./images/tijdlijn5.png)
 - **Oprichting van de VN** = **1945**
 - **Universele Verklaring van de rechten van de Mens** = **1948**
 
@@ -861,10 +861,10 @@ Ook andere organisaties (WHO, Unesco, Unicef, Unesco, ...)
 ## Studie 2 - De Europese Unie
 
 ## Ruimte
-![kaarEU](./kaartEU.png)
+![kaarEU](./images/kaartEU.png)
 
 ## Tijd
-![tijdlijn](./tijdlijn6.png)
+![tijdlijn](./images/tijdlijn6.png)
 - **Verdrag van Rome** = **1957**
 - **Verdrag van Maastricht** = **1992**
 - **Brexit** = **2020**

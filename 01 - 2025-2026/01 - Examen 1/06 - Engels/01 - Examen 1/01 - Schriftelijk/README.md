@@ -7,44 +7,44 @@
 ---
 
 ## Vocabulary
-![file3](./unit1FileVoc.png)
-![file4.1](./unit1File4Voc.png)
-![file4.2](./unit1File4Voc2.png)
+![file3](./images/unit1FileVoc.png)
+![file4.1](./images/unit1File4Voc.png)
+![file4.2](./images/unit1File4Voc2.png)
 
 ---
 
 ## Grammar
 
 ### The Present Simple Tense
-![thePresentSimpleTense](./thePresentSimpleTense.png)
-![thePresentSimpleTense2](./thePresentSimpleTense2.png)
+![thePresentSimpleTense](./images/thePresentSimpleTense.png)
+![thePresentSimpleTense2](./images/thePresentSimpleTense2.png)
 
 ### The Present Continuous Tense
-![thePresentContinuousTense](./thePresentContinuousTense.png)
-![thePresentContinuousTense2](./thePresentContinuousTense2.png)
+![thePresentContinuousTense](./images/thePresentContinuousTense.png)
+![thePresentContinuousTense2](./images/thePresentContinuousTense2.png)
 
 ### The Past Simple Tense
-![thePastSimpleTense](./thePastSimpleTense.png)
-![thePastSimpleTense2](./thePastSimpleTense2.png)
-![thePastSimpleTense3](./thePastSimpleTense3.png)
+![thePastSimpleTense](./images/thePastSimpleTense.png)
+![thePastSimpleTense2](./images/thePastSimpleTense2.png)
+![thePastSimpleTense3](./images/thePastSimpleTense3.png)
 
 ### The Past Continuous Tense
-![thePastContinuous](./thePastContinuous.png)
-![thePastContinuous2](./ThePastContinuous2.png)
+![thePastContinuous](./images/thePastContinuous.png)
+![thePastContinuous2](./images/ThePastContinuous2.png)
 
 ### The Present Perfect Tense
-![thePresentPerfectSimpleTense](./thePresentPerfectSimpleTense.png)
-![thePresentPerfectSimpleTense2](./thePresentPerfectSimpleTense2.png)
+![thePresentPerfectSimpleTense](./images/thePresentPerfectSimpleTense.png)
+![thePresentPerfectSimpleTense2](./images/thePresentPerfectSimpleTense2.png)
 
 ### The Future Simple Tense
-![thePresentPerfectContinuousTense](./thePresentPerfectContinuousTense.png)
+![thePresentPerfectContinuousTense](./images/thePresentPerfectContinuousTense.png)
 
 ### The Past Perfect Simple Tense
-![thePastPerfectSimpleTense](./thePastPerfectSimpleTense.png)
+![thePastPerfectSimpleTense](./images/thePastPerfectSimpleTense.png)
 
 
 ### The emphatic use of to do
-![theEmphaticUseOfToDo](./theEmphaticUseOfToDo.png)
+![theEmphaticUseOfToDo](./images/theEmphaticUseOfToDo.png)
 
 ---
 
@@ -53,19 +53,19 @@
  ---
 
 ## Vocabulary
-![file1Voc](./unitFile1Voc.png)
-![file1Voc](./unit2file1Voc.png)
-![file3Voc](./unit2File3.png)
+![file1Voc](./images/unitFile1Voc.png)
+![file1Voc](./images/unit2file1Voc.png)
+![file3Voc](./images/unit2File3.png)
 
 ---
 
 ## Grammar
 
 ### Used To
-![usedTo](./usedTo.png)
+![usedTo](./images/usedTo.png)
 
 ### Semi-auxiliaries
-![semi-auxiliaries](./semi-auxiliaries.png)
+![semi-auxiliaries](./images/semi-auxiliaries.png)
 
 ---
 
@@ -74,15 +74,15 @@
  ---
 
 ## Vocabulary
-![](./unit3File2.png)
-![file3.1](./unit3File3.png)
-![file3.2](./unit3File3.2.png)
+![](./images/unit3File2.png)
+![file3.1](./images/unit3File3.png)
+![file3.2](./images/unit3File3.2.png)
 
 ---
 
 ## Grammar
-![theGerundAndInfinitive](./theGerundAndInfinitive.png)
-![theGerundAndInfinitive2](./theGerundAndInfinitive2.png)
-![relativeClauses](./relativeClauses.png)
+![theGerundAndInfinitive](./images/theGerundAndInfinitive.png)
+![theGerundAndInfinitive2](./images/theGerundAndInfinitive2.png)
+![relativeClauses](./images/relativeClauses.png)
 
 ---

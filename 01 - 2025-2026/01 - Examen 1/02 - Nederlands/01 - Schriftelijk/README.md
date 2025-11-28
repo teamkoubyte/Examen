@@ -4,40 +4,40 @@
 
 # Les 1: Humor
 ## Alles van kennen:
-![humorvormen](./humorvormen.png)
-![humorstijlen](./humorstijlen.png)
-![humortechnieken](./humortechnieken.png)
+![humorvormen](./images/humorvormen.png)
+![humorstijlen](./images/humorstijlen.png)
+![humortechnieken](./images/humortechnieken.png)
 
 ---
 
 # Les 2: Cartoons en columns
 ## Op het examen komt hier een leesopdracht van:
-![zoSchrijfJeEenColumn](./zoSchrijfJeEenColumn.png)
+![zoSchrijfJeEenColumn](./images/zoSchrijfJeEenColumn.png)
 
 ---
 
 # Les 3: Visuele communicatie
 ## De voordelen nadelen van kennen:
-![visueelCommuniceren](./visueelCommuniceren.png)
-![effectiefVisueelCommuniceren](./effectiefVisueelCommuniceren.png)
+![visueelCommuniceren](./images/visueelCommuniceren.png)
+![effectiefVisueelCommuniceren](./images/effectiefVisueelCommuniceren.png)
 
 ---
 
 # Les 4: Samenvatten
 ## Op het examen komt hier een schrijfopdracht en luisteropdracht van:
 ## De theorie moet je niet van buiten kennen, alleen weten hoe je een samenvatting maakt:
-![samenvatten](./samenvatten.png)
+![samenvatten](./images/samenvatten.png)
 
 ---
 
 # Les 5: Taal in het brein (+)
 
 ## Alles van kennen:
-![deEersteFasenVanTaalverwerving](./deEersteFasenVanTaalverwerving.png)
-![taalFoutenInDeVroeglingualseFase](./taalfoutenInDeVroeglingualeFase.png)
-![dyslexie](./dyslexie.png)
-![afasie](./afasie.png)
-![stotteren](./stotteren.png)
+![deEersteFasenVanTaalverwerving](./images/deEersteFasenVanTaalverwerving.png)
+![taalFoutenInDeVroeglingualseFase](./images/taalfoutenInDeVroeglingualeFase.png)
+![dyslexie](./images/dyslexie.png)
+![afasie](./images/afasie.png)
+![stotteren](./images/stotteren.png)
 
 ---
 

@@ -44,7 +44,7 @@
 
   - 31 vogels op de **Galapagos**-eilanden
 
-  ![darwinvinken](./darwinvinken.png)
+  ![darwinvinken](./images/darwinvinken.png)
 
   - 14 nauwverwante soorten, enkel verschillend in **de vorm van de bek**
   - Vorm van de bek hangt samen met he type voedsel -> natuurlijke selectie - Grote, harde zaden -> Grote, sterke bek - Kleine zaden en insecten -> Kleine, fijne bek
@@ -52,7 +52,7 @@
 
   #### 2. Industrieel Melanisme
 
-  ![industrieelMelanisme](./industrieelMelanisme.png)
+  ![industrieelMelanisme](./images/industrieelMelanisme.png)
 
   - Tot 1850 waren donkere berkenspanners zeldzaam
   - Vanaf toen steeg de hoeveelheid donkere berkenspanners in de populatie tot ± 100% <br>
@@ -62,9 +62,9 @@
   #### 3. Artificiële selectie
 
   - Verandering door **mens**elijke inmenging<br><br>
-    ![artificiëleSelectie](./artificiëleSelectie.png)
-    ![artificiëleSelectie2](./artificiëleSelectie2.png)
-    ![artificiëleSelectie3](./artificiëleSelectie3.png)
+    ![artificiëleSelectie](./images/artificiëleSelectie.png)
+    ![artificiëleSelectie2](./images/artificiëleSelectie2.png)
+    ![artificiëleSelectie3](./images/artificiëleSelectie3.png)
 
   #### Domesticatie:
 
@@ -72,10 +72,10 @@
     - Windhonden -> snelheid
     - Teckels -> dassenjacht
     - Herdershonden -> herden<br><br>
-      ![honden](./honden.png)
+      ![honden](./images/honden.png)
   - **Katten**:
     - Geschikter als huisdier<br><br>
-      ![katten](./katten.png)
+      ![katten](./images/katten.png)
 
   #### Criticasters evolutietheorie
 
@@ -97,26 +97,26 @@
 #### 5 drijvende krachten achter veranderingen:
 
 1. Mutatie<br><br>
-   ![mutatie](./mutatie.png)
+   ![mutatie](./images/mutatie.png)
 
 2. Genoverdracht<br><br>
-   ![genoverdracht](./genoverdracht.png)
+   ![genoverdracht](./images/genoverdracht.png)
 
 3. Onwillekeurige paring<br><br>
-   ![onwillekeurigeParing](./onwillekeurigeParing.png)
+   ![onwillekeurigeParing](./images/onwillekeurigeParing.png)
 
 4. Genetische drift<br><br>  
-   ![genetischeDrift](./genetischeDrift.png)
+   ![genetischeDrift](./images/genetischeDrift.png)
 
 5. Selectie<br><br>  
-   ![selectie](./selectie.png)
+   ![selectie](./images/selectie.png)
 
 ---
 
 ### 3 domeinen, 6 rijken
 
-![domeinen](./domeinen.png)
-![treeOfLife](./treeOfLife.png)
+![domeinen](./images/domeinen.png)
+![treeOfLife](./images/treeOfLife.png)
 
 ---
 
@@ -137,15 +137,15 @@
 
 ### Paleontologie
 
-![paleontologie](./paleontologie.png)
+![paleontologie](./images/paleontologie.png)
 
 <span style="color: green;">**Paleontologie**</span> is de wetenschapstak die **fossielen** bestudeert.<br>
 <span style="color: green;">- **fossielen**</span>: - overblijfselen van organismen - natuurlijke manier bewaard - beeld van evolutie - gegevens vergelijken met elkaar en met hedendaagse soorten
 
 <span style="color: green;">- **fossilisatie**</span>: - het ontstaan van fossielen is een **zeldzaam** proces, omdat een organisme na zijn dood vaak volledig vergaat tot er niets meer van overblijft. - **verstenen**: dood organisme wordt bedekt met slib of zand - verstenen tot amber of barnsteen: organisme kwam vast te zitten in hars
 
-![amber](./amber.png)
-![voetsporen](./voetsporen.png)
+![amber](./images/amber.png)
+![voetsporen](./images/voetsporen.png)
 
 #### dateringsmethoden
 
@@ -162,28 +162,28 @@ voorbeeld: koolstofdatering of <sup>14</sup>C-datering
 - dood organisme: opname koolstof stopt en <sup>14</sup>C heeft radioactief verval
 - <sup>14</sup>C/<sup>12</sup>C bepalen en ouderdom ongeveer afleiden
 
-![dateringsmethode](./dateringsmethode.png)
+![dateringsmethode](./images/dateringsmethode.png)
 
 argument voor evolutie: <span style="color: green;">**fossiele overgansvormen**</span>
 - fossielen die kenmerken van twee afzonderlijke, verwante 
 dierengroepen bevatten
 - voorbeeld: **Archaeopteryx** (1861 in Beieren)
     - huidige vogels stammen af van de uitgestorven dinosauriërs (reptielen)<br><br>
-        ![kenmerkenPaleontologie](./kenmerkenPaleontologie.png)
+        ![kenmerkenPaleontologie](./images/kenmerkenPaleontologie.png)
 - een fossiele overgangsvorm bevat primitieve kenmerken in vergelijking met modernere,verwante levensvormen
 - markeren cruciale stappen in de evolutie van organismen
 
-    ![archaeopteryx](./archaeopteryx.png)
+    ![archaeopteryx](./images/archaeopteryx.png)
 
 - voorbeeld: **Ichthyostega**
     - van vis naar amfibie
     - dierlijk leven op land werd mogelijk
 
-    ![ichtyostega](./ichtyostega.png)
+    ![ichtyostega](./images/ichtyostega.png)
 
-![bordschema](./bordschema.png)
+![bordschema](./images/bordschema.png)
 
-![](./paleontologiePaard.png)
+![](./images/paleontologiePaard.png)
 
 #### <span style="color: green;">**Evolutiereeks**</span>:
 verschillende fossielen van verwante soorten
@@ -220,7 +220,7 @@ voorbeeld: **embryonale ontwikkeling** van verschillende gewervelde diersoorten
 - hoe ouder het embryo, hoe groter de verschillen
 - de overeenkomsten in het begin zijn een bewijs dat al deze diersoorten een **gemeenschappelijke voorouder** hebben
 
-![embryologie](./embryologie.png)
+![embryologie](./images/embryologie.png)
 
 ---
 
@@ -234,7 +234,7 @@ voorbeeld: beenderen van de ledematen van gewervelde dieren
 organen die op dezelfde manier ontstaan zijn, maar 
 een verschillende functie hebben
 
-![homologeOrganen](./homologeOrganen.png)
+![homologeOrganen](./images/homologeOrganen.png)
 
 #### <span style="color: green;">**rudimentaire organen**</span>
 organen die hun functie verloren hebben
@@ -249,7 +249,7 @@ organen die hun functie verloren hebben
     - knipvliesje aan de ogen
     - ...
 
-![rudimentaireOrganen](./rudimentaireOrganen.png)
+![rudimentaireOrganen](./images/rudimentaireOrganen.png)
 
 voorbeelden bij andere dieren 
 - bekkengordel met heupbeen en dijbeen bij walvissen
@@ -257,7 +257,7 @@ voorbeelden bij andere dieren
 - uitlopers van poten bij slangen
     - voorouders hadden poten
 
-![rudimentaireOrganenWalvissen](./rudimentaireOrganenWalvissen.png)
+![rudimentaireOrganenWalvissen](./images/rudimentaireOrganenWalvissen.png)
 
 ---
 
@@ -277,7 +277,7 @@ voorbeelden bij andere dieren
     - aarde is 4,54 miljard jaar oud
     - isotopisch onderzoek van meteorieten
 
-![platentektoniek](./platentektoniek.png)
+![platentektoniek](./images/platentektoniek.png)
 
 - verschillende argumenten voor evolutie
     - fossiele schelpen in het Andesgebergte -> vroeger een oceaan
@@ -291,7 +291,7 @@ voorbeelden bij andere dieren
 ### Biogeografie
 - loopvogels terug te vinden in Zuid-Amerika, Afrika, Zuidoost-Azië en Australië
 
-![verspreidingVanDeLoopvogels](./biogeografie.png)
+![verspreidingVanDeLoopvogels](./images/biogeografie.png)
 
 #### <span style="color: green;">**biogeografie**</span>
 de studie van het verspreidingsgebied van soorten organismen op aarde
@@ -312,8 +312,8 @@ loopvogels vroeger op Gondwana, nu op de continenten die daaruit zijn ontstaan
     - beter aangepast en concurreren met buideldieren
     - buideldieren sterven uit behalve in Australië, eerder afgescheurd en geen concurrentie in Australië
 
-![vogelbekdierKoala](./vogelbekdierKoala.png)
-![continentendrift](./continentendrift.png)
+![vogelbekdierKoala](./images/vogelbekdierKoala.png)
+![continentendrift](./images/continentendrift.png)
 
 verspreiding van fossielen
 - verspreid over continenten
@@ -323,14 +323,14 @@ verspreiding van fossielen
     - jaguar in Zuid-Amerika en luipaard in Afrika en Azië
     - neusapen uit Borneo verwant met soorten in Afrika en Zuid-Amerika
 
-![verspreidingFossielen](./verspreidingFossielen.png)
+![verspreidingFossielen](./images/verspreidingFossielen.png)
 
 ---
 
 ### Biochemie en moleculaire biologie
 voorbeeld: zeehonden zijn meer verwant met wasberen en stinkdieren dan met honden
 
-![cladogram](./cladogram.png)
+![cladogram](./images/cladogram.png)
 
 - **eiwitten** op dezelfde manier opgebouwd uit 20 aminozuren
 - **universele genetische code**: codons coderen voor dezelfde aminozuren
@@ -339,7 +339,7 @@ voorbeeld: zeehonden zijn meer verwant met wasberen en stinkdieren dan met honde
 
 -> biochemische gelijkenissen in alle organismen: aanwijzing voor het ontstaan van het leven uit één oercel
 
-![centraleHypothese](./centraleHypothese.png)
+![centraleHypothese](./images/centraleHypothese.png)
 
 verwantschap tussen verschillende soorten
 - aminozuursequenties van verschillende eiwitten vergelijken
@@ -357,7 +357,7 @@ verschillende soorten
 - hoeveelheid vertakkingspunten geeft een beeld van verwantschap
 - soorten A en B zijn meer verwant dan soorten A en C
 
-![cladogramUitleg](./cladogramUitleg.png)
+![cladogramUitleg](./images/cladogramUitleg.png)
 
 ---
 
@@ -369,7 +369,7 @@ verschillende soorten
 gelijkaardig is de resistentie van insecten en 
 onkruiden tegen pesticiden
 
-![antibioticaresistentie](./antiobioticaresistentie.png)
+![antibioticaresistentie](./images/antiobioticaresistentie.png)
 
 blinde holenvis
 - voorkomen: Mexicaanse grotten zonder licht en weinig voedsel
@@ -378,7 +378,7 @@ blinde holenvis
 - verwanten holenvissen met ogen
     - in Mexico waar wel licht is
 
-![blindeHolenvis](./blindeHolenvis.png)
+![blindeHolenvis](./images/blindeHolenvis.png)
 
 ---
 
@@ -389,7 +389,7 @@ blinde holenvis
 ### 1.1 De basisstructuur van DNA
 Nucleotide:
 
-![dnaBasisstructuur](./dnaBasisStructuur.png)
+![dnaBasisstructuur](./images/dnaBasisStructuur.png)
 
 - **DNA** = desoxyribonucleïnezuur
 - Dubbele helix
@@ -401,10 +401,10 @@ Nucleotide:
         - Complementair
         - A - T, G - C
 
-![dubbeleHelix](./dubbeleHelix.png)
+![dubbeleHelix](./images/dubbeleHelix.png)
 
 ### 1.2 De bouw van DNA in detail
-![dnaDetails](./DNADetails.png)
+![dnaDetails](./images/DNADetails.png)
 
 ### 1.3 De organisatie van het DNA in de cel
 - Genoom
@@ -412,33 +412,33 @@ Nucleotide:
 - Chromosomen
 - Genen
 
-![organisatieDNA](./organisatieDNA.png)
+![organisatieDNA](./images/organisatieDNA.png)
 
 - Menselijke cel: 23 paar chromosomen 
     - 22 paar autosomen
     - 1 paar geslachtchromosomen of heterosomen
 - Karyogram:
 
-![karyogram](./karyogram.png)
+![karyogram](./images/karyogram.png)
 
 - Geslachtshormonen: X-X of X-Y
 
-![geslachtschromosomen](./geslachtschromosomen.png)
+![geslachtschromosomen](./images/geslachtschromosomen.png)
 
 - Haploïd of Diploïd
 
-![haploïdDiploïd](./haploïdDiploïd.png)
+![haploïdDiploïd](./images/haploïdDiploïd.png)
 
 ### 1.4 Het condensatieproces van DNA
 - Hoe wordt DNA in de cel 'gepropt'? -> Condensatieproces
 
-![condensatieproces](./condensatieproces.png)
+![condensatieproces](./images/condensatieproces.png)
 
 1. Histonen - chromatine
 2. Chromatinevezel
 3. Verdubbelde toestand - chromosomen - zusterchromatiden met centromeer
 
-![verdubbeldeToestand](./verdubbeldeToestand.png)
+![verdubbeldeToestand](./images/verdubbeldeToestand.png)
 
 ### 2. DNA-replicatie
 
@@ -447,7 +447,7 @@ Nucleotide:
 - Waarom replicatie?
 - Voorafgaand aan de celdeling
 
-![dna-replicatie](./dna-replicatie.png)
+![dna-replicatie](./images/dna-replicatie.png)
 
 - Enzym DNA-helicase breekt H-bruggen -> dubbele helix opent
 - Enzym DNA-polymerase -> voegt nieuwe nucleotiden toe
@@ -466,7 +466,7 @@ Nucleotide:
 - Voorbereiding is alles: interfase
 - Voorafgaans: G0-fase
 
-![celcyclus](./celcyclus.png)
+![celcyclus](./images/celcyclus.png)
 
 - Interfase:
     - G1-fase:
@@ -482,10 +482,10 @@ Nucleotide:
 
 - M-fase: Mitose of Meiose
 
-![mitoseMeiose](./mitoseMeiose.png)
+![mitoseMeiose](./images/mitoseMeiose.png)
 
 ### 3.2 Mitose
-![mitose](./mitose.png)
+![mitose](./images/mitose.png)
 
 - Het verloop van mitose:
     - Profase:
@@ -503,7 +503,7 @@ Nucleotide:
 
 - Resultaat van mitose -> 2 genetische identieke cellen
 
-![verloopMitose](./verloopMitose.png)
+![verloopMitose](./images/verloopMitose.png)
 
 - Het belang van mitose:
     - **Groei**:
@@ -521,7 +521,7 @@ Nucleotide:
     - 200 miljard nieuwe cellen per dag
 
 ### 3.3 Meiose
-![meiose](./meiose.png)
+![meiose](./images/meiose.png)
 
 - Verloop van meiose: 
     - Reductiedeling
@@ -529,13 +529,13 @@ Nucleotide:
     - 4 genetische unieke haploïde cellen
         - Uniek: crossing over
 
-![crossingOver](./crossingOver.png)
+![crossingOver](./images/crossingOver.png)
 
 - Het belang van meiose:
     - Geslachtelijke voortplanting - haploïde cellen
     - Genetische variatie: crossing over én mixing
 
-![mixing](./mixing.png)
+![mixing](./images/mixing.png)
 
 ### 3.4 Factoren die de celdeling beïnvloeden
 - Interne factoren:
@@ -554,7 +554,7 @@ Nucleotide:
     - Radiotherapie: hoogenergetische straling die DNA beschadigt
     - Immuuntherapie (niet in het handboek)
 
-![ongecontroleerdeCeldeling](./ongecontroleerdeCeldeling.png)
+![ongecontroleerdeCeldeling](./images/ongecontroleerdeCeldeling.png)
 
 ---
 
