@@ -4,24 +4,24 @@
 
 ## Trajet 1 - Appeler les secours
 
-![décrireLeRisques](./décrireLesRisques.png)
+![décrireLeRisques](./images/décrireLesRisques.png)
 
-![signalerUnProblème](./signalerUnProblème.png)
+![signalerUnProblème](./images/signalerUnProblème.png)
 
-![lesIndéfinis](./lesIndéfinis.png)
+![lesIndéfinis](./images/lesIndéfinis.png)
 
-![mots-clés](./mots-clés.png)
-![mots-clés1](./mots-clés1.png)
+![mots-clés](./images/mots-clés.png)
+![mots-clés1](./images/mots-clés1.png)
 
 ---
 
 ## Trajet 1 - Éviter les problèmes
 
-![donnerDesInstructions](./donnerDesInstructions.png)
+![donnerDesInstructions](./images/donnerDesInstructions.png)
 
-![lesPronomsRelatifs](./lesPronomsRelatifs.png)
+![lesPronomsRelatifs](./images/lesPronomsRelatifs.png)
 
-![lePrépositionDe](./lesPrépositionDe.png)
+![lePrépositionDe](./images/lesPrépositionDe.png)
 
 ---
 
