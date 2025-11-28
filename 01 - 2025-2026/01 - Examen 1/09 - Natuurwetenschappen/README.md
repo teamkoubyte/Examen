@@ -382,10 +382,179 @@ blinde holenvis
 
 ---
 
+## Genetisch materiaal en celdeling
+
+### 1. De bouw en organisatie van het erfelijk materiaal
+
+### 1.1 De basisstructuur van DNA
+Nucleotide:
+
+![dnaBasisstructuur](./dnaBasisStructuur.png)
+
+- **DNA** = desoxyribonucleïnezuur
+- Dubbele helix
+    - Verbonden via waterstofbruggen
+- Nucleotiden
+    - Suiker (Desocyribose)
+    - Fosfaatgroep
+    - Organissche stikstofbase:
+        - Complementair
+        - A - T, G - C
+
+![dubbeleHelix](./dubbeleHelix.png)
+
+### 1.2 De bouw van DNA in detail
+![dnaDetails](./DNADetails.png)
+
+### 1.3 De organisatie van het DNA in de cel
+- Genoom
+- 3 miljard basenparen
+- Chromosomen
+- Genen
+
+![organisatieDNA](./organisatieDNA.png)
+
+- Menselijke cel: 23 paar chromosomen 
+    - 22 paar autosomen
+    - 1 paar geslachtchromosomen of heterosomen
+- Karyogram:
+
+![karyogram](./karyogram.png)
+
+- Geslachtshormonen: X-X of X-Y
+
+![geslachtschromosomen](./geslachtschromosomen.png)
+
+- Haploïd of Diploïd
+
+![haploïdDiploïd](./haploïdDiploïd.png)
+
+### 1.4 Het condensatieproces van DNA
+- Hoe wordt DNA in de cel 'gepropt'? -> Condensatieproces
+
+![condensatieproces](./condensatieproces.png)
+
+1. Histonen - chromatine
+2. Chromatinevezel
+3. Verdubbelde toestand - chromosomen - zusterchromatiden met centromeer
+
+![verdubbeldeToestand](./verdubbeldeToestand.png)
+
+### 2. DNA-replicatie
+
+### 2.1 Het verloop van DNA-replicatie
+- DNA-replicaite = 
+- Waarom replicatie?
+- Voorafgaand aan de celdeling
+
+![dna-replicatie](./dna-replicatie.png)
+
+- Enzym DNA-helicase breekt H-bruggen -> dubbele helix opent
+- Enzym DNA-polymerase -> voegt nieuwe nucleotiden toe
+- Semiconservatief
 
 
+### 3. DNA doorgeven via celdeling
 
+### 3.1 De celcyclus
+- Wat is een levenscyclus:
+    - Ontstaan
+    - Ontwikkeling en groei
+    - Voortplanting
+    - Sterven
+- Alleen mogelijk door celdeling
+- Voorbereiding is alles: interfase
+- Voorafgaans: G0-fase
 
+![celcyclus](./celcyclus.png)
 
+- Interfase:
+    - G1-fase:
+        - Cel groeit, bouwstenen en energie worden aangemaakt
+    - S-fase:
+        - Synthesefase, DNA-replicatie
+    - G2-fase:
+        - Cel groeit verder, controle op replicatiefouten
+    - M-fase:
+        - Effectieve celdeling (mitose of meiose)
+    - Controlepunten:
+        - Celdoding, reparatie, G0, ...
 
+- M-fase: Mitose of Meiose
+
+![mitoseMeiose](./mitoseMeiose.png)
+
+### 3.2 Mitose
+![mitose](./mitose.png)
+
+- Het verloop van mitose:
+    - Profase:
+        - Zusterchromatiden zichtbaar
+        - Spoelfiguur vormt zich vanuit centriolen
+    - Metafase:
+        - Chromosomen op 1 lijn in het midden van de cel = **Equatoriaal vlak**
+    - Anafase:
+        - Zusterchromatiden worden uit elkaar getrokken
+    - Telofase:
+        - Nieuw kernmembraan
+    - Cytokinese:
+        - Cel snoert in 2
+        - Spoelfiguur verdwijnt
+
+- Resultaat van mitose -> 2 genetische identieke cellen
+
+![verloopMitose](./verloopMitose.png)
+
+- Het belang van mitose:
+    - **Groei**:
+        - Van bevruchte eicel tot volwassen organisme
+        - Celdeling vermindert met ouder worden
+    - **Voortplanting**:
+        - Eencellige organismen (bv. gisten): ongeslachtelijke en aseksuele voorplanting
+        - Klonen - geen gentische variatie
+    - **Behoud vna het aantal cellen en herstel**:
+        - Soms zo oud als het organisme zelf (hersencellen, ...)
+        - Delen om één of twee jaar (levercelln, ...)
+        - Bloedcellen: rode (120 dagen), witte (2 dagen), bloedplaatjes (10 dagen)
+        - Actiefst: epitheelcellen of huidcellen
+        - Wonden
+    - 200 miljard nieuwe cellen per dag
+
+### 3.3 Meiose
+![meiose](./meiose.png)
+
+- Verloop van meiose: 
+    - Reductiedeling
+    - Twee celdelingen: Meiose I en Meiosse II
+    - 4 genetische unieke haploïde cellen
+        - Uniek: crossing over
+
+![crossingOver](./crossingOver.png)
+
+- Het belang van meiose:
+    - Geslachtelijke voortplanting - haploïde cellen
+    - Genetische variatie: crossing over én mixing
+
+![mixing](./mixing.png)
+
+### 3.4 Factoren die de celdeling beïnvloeden
+- Interne factoren:
+    - Groeifactoren (HGH/Epo)
+- Externe factoren:
+    - Planten: omgevingsfactoren zoals licht, temperatuur, ...
+    - Straling
+
+### 3.5 Ongecontroleerde celdeling
+- Ongecontroleerde celdeling leidt meestal tot de vorming van een cluster: tumor
+    - Goedaardig: lijken op het ontstaansweefsel, verspreiden niet, ingekapseld
+    - Kwaadaardig: lijken niet meer op het omringende weefsel, niet ingekapseld, neiging tot verspreiden
+- Behandeling:
+    - Operatieve verwijdering
+    - Chemotherapie: weinig selectief, richt zich op snel dalende cellen
+    - Radiotherapie: hoogenergetische straling die DNA beschadigt
+    - Immuuntherapie (niet in het handboek)
+
+![ongecontroleerdeCeldeling](./ongecontroleerdeCeldeling.png)
+
+---
 
