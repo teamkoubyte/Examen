@@ -7,13 +7,9 @@
 ![décrireLeRisques](./images/décrireLesRisques.png)
 ### Signaler Un Problème
 ![signalerUnProblème](./images/signalerUnProblème.png)
-<<<<<<< HEAD
 ### Les Indéfinis
 ![lesIndéfinis](./images/lesIndéfinis.png)
 ### Mots-clés
-=======
-
->>>>>>> 4f4c0cdfe8e3686f97a42d0cd9665ba46740e764
 ![mots-clés](./images/mots-clés.png)
 ![mots-clés1](./images/mots-clés1.png)
 
