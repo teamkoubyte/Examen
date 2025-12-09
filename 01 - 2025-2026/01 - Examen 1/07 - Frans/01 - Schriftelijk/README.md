@@ -20,8 +20,6 @@
 ![donnerDesInstructions](./images/donnerDesInstructions.png)
 ### Les Pronoms Relatifs
 ![lesPronomsRelatifs](./images/lesPronomsRelatifs.png)
-### Le Préposition De
-![lePrépositionDe](./images/lesPrépositionDe.png)
 
 ## La conjugaison de verbes
 
