@@ -406,12 +406,8 @@ Nucleotide:
 ![ontdekkingDNA](./images/ontdekkingDNA.png)
 
 ### 1.2 De bouw van DNA in detail
-<<<<<<< HEAD
 - **Geen Leerstof**
 
-=======
-- **Geen leerstof**
->>>>>>> beef7a491dfb7da5f17ae71f3bee1467b471cc17
 ![dnaDetails](./images/DNADetails.png)
 
 ### 1.3 De organisatie van het DNA in de cel
