@@ -425,7 +425,8 @@ Nucleotide:
 ![karyogram](./images/karyogram.png)
 
 **Geslachtshormonen**: 
-- X-X of X-Y
+- X-X = Vrouwelijk geslachtshormoon
+- X-Y = Mannelijk geslachtshormoon
 
 ![geslachtschromosomen](./images/geslachtschromosomen.png)
 
