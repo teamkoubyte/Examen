@@ -404,6 +404,7 @@ Nucleotide:
 ![dubbeleHelix](./images/dubbeleHelix.png)
 
 ### 1.2 De bouw van DNA in detail
+- **Geen leerstof**
 ![dnaDetails](./images/DNADetails.png)
 
 ### 1.3 De organisatie van het DNA in de cel
