@@ -406,8 +406,6 @@ Nucleotide:
 ![ontdekkingDNA](./images/ontdekkingDNA.png)
 
 ### 1.2 De bouw van DNA in detail
-- **Geen Leerstof**
-
 ![dnaDetails](./images/DNADetails.png)
 
 ### 1.3 De organisatie van het DNA in de cel
@@ -491,25 +489,34 @@ Nucleotide:
 ![mitoseMeiose](./images/mitoseMeiose.png)
 
 ### 3.2 Mitose
+- Resultaat van mitose -> 2 genetische identieke cellen
+
 ![mitose](./images/mitose.png)
 
 - Het verloop van mitose:
     - Profase:
         - Zusterchromatiden zichtbaar
         - Spoelfiguur vormt zich vanuit centriolen
+
+        ![profase](./images/profase.png)
     - Metafase:
         - Chromosomen op 1 lijn in het midden van de cel = **Equatoriaal vlak**
+
+        ![metafase](./images/metafase.png)
     - Anafase:
         - Zusterchromatiden worden uit elkaar getrokken
+
+        ![anafase](./images/anafase.png)
     - Telofase:
         - Nieuw kernmembraan
+
+        ![telofase](./images/telofase.png)
+
     - Cytokinese:
         - Cel snoert in 2
         - Spoelfiguur verdwijnt
 
-- Resultaat van mitose -> 2 genetische identieke cellen
-
-![verloopMitose](./images/verloopMitose.png)
+        ![cytokinese](./images/cytokinese.png)
 
 - Het belang van mitose:
     - **Groei**:
@@ -535,7 +542,7 @@ Nucleotide:
     - 4 genetische unieke haploïde cellen
         - Uniek: crossing over
 
-![crossingOver](./images/crossingOver.png)
+![crossingOver](./images/crossingOver.png)![meiose](./images/meiose.png) 
 
 - Het belang van meiose:
     - Geslachtelijke voortplanting - haploïde cellen
