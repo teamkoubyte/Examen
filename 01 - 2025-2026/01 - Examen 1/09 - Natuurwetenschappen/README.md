@@ -399,11 +399,15 @@ Nucleotide:
     - Fosfaatgroep
     - Organissche stikstofbase:
         - Complementair
-        - A - T, G - C
+        - Adenine - Thymine | Guanine - Cytosine
 
-![dubbeleHelix](./images/dubbeleHelix.png)
+- Ter info:
+
+![ontdekkingDNA](./images/ontdekkingDNA.png)
 
 ### 1.2 De bouw van DNA in detail
+- **Geen Leerstof**
+
 ![dnaDetails](./images/DNADetails.png)
 
 ### 1.3 De organisatie van het DNA in de cel
@@ -439,6 +443,8 @@ Nucleotide:
 3. Verdubbelde toestand - chromosomen - zusterchromatiden met centromeer
 
 ![verdubbeldeToestand](./images/verdubbeldeToestand.png)
+
+![hetLichaampjeVanBarr](./images/hetLichaampjeVanBarr.png)
 
 ### 2. DNA-replicatie
 
