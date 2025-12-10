@@ -409,25 +409,27 @@ Nucleotide:
 ![dnaDetails](./images/DNADetails.png)
 
 ### 1.3 De organisatie van het DNA in de cel
-- Genoom
+**Genoom**:
 - 3 miljard basenparen
 - Chromosomen
 - Genen
 
 ![organisatieDNA](./images/organisatieDNA.png)
 
-- Menselijke cel: 23 paar chromosomen 
-    - 22 paar autosomen
-    - 1 paar geslachtchromosomen of heterosomen
-- Karyogram:
+**Menselijke cel**: 23 paar chromosomen 
+- 22 paar autosomen
+- 1 paar geslachtchromosomen of heterosomen
+
+**Karyogram**:
 
 ![karyogram](./images/karyogram.png)
 
-- Geslachtshormonen: X-X of X-Y
+**Geslachtshormonen**: 
+- X-X of X-Y
 
 ![geslachtschromosomen](./images/geslachtschromosomen.png)
 
-- Haploïd of Diploïd
+**Haploïd of Diploïd**
 
 ![haploïdDiploïd](./images/haploïdDiploïd.png)
 
